@@ -10,4 +10,4 @@ torchaudio
 matplotlib
 scipy
 tqdm
-sklearn
+scikit-learn
